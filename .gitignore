@@ -40,6 +40,9 @@
 
 # Project files
 *.uvproj
+*.uvgui.*
+*.uvopt
+*.bak
 *.dep
 *.crf
 *.d
