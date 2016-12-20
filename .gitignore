@@ -38,14 +38,11 @@
 *.php
 *.asp
 
-# Doc files
-*.html
-*.htm
-*.php
-*.asp
-
 # Project files
 *.uvproj
+*.uvgui.*
+*.uvopt
+*.bak
 *.dep
 *.crf
 *.d
