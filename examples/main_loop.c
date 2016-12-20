@@ -2,5 +2,7 @@
 
 
 int main(){
+	int loop;
 	return 1;
 }
+
