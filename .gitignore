@@ -51,3 +51,6 @@
 *.map
 *.lst
 *.axf
+
+# Ignore everything in this directory 
+* 
