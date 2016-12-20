@@ -13,3 +13,4 @@ Directory Hierarchy:
 /common			Misc architecture independent functions
 /drivers		Commonly used device drivers
 /examples		Example code for standalone applications, etc.
+/Project		Project file
