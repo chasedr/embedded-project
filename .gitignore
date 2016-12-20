@@ -31,3 +31,23 @@
 # Debug files
 *.dSYM/
 *.su
+
+# Doc files
+*.html
+*.htm
+*.php
+*.asp
+
+# Project files
+*.uvproj
+*.uvgui.*
+*.uvopt
+*.bak
+*.dep
+*.crf
+*.d
+*.lnp
+*.sct
+*.map
+*.lst
+*.axf
