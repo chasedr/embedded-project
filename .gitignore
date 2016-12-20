@@ -37,3 +37,20 @@
 *.htm
 *.php
 *.asp
+
+# Doc files
+*.html
+*.htm
+*.php
+*.asp
+
+# Project files
+*.uvproj
+*.dep
+*.crf
+*.d
+*.lnp
+*.sct
+*.map
+*.lst
+*.axf
